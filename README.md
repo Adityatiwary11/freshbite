@@ -73,7 +73,7 @@ freshbite/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/freshbite.git
+   git clone https://github.com/Adityatiwary11/freshbite.git
    cd freshbite
    ```
 2. Open `index.html` in a browser, or use the **Live Server** extension in VS Code (right-click `index.html`, then **Open with Live Server**).
@@ -86,7 +86,7 @@ No build step or dependencies are needed.
 2. Open the repository, then **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
 4. Choose branch `main` and folder `/ (root)`, then click **Save**.
-5. After a minute, the site is live at `https://<your-username>.github.io/<repo-name>/`.
+5. After a minute, the site is live at `https://Adityatiwary11.github.io/<repo-name>/`.
 
 ## Add a new dish
 
