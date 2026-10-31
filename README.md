@@ -3,6 +3,7 @@
 A frontend-only food ordering website. Browse restaurants, explore menus, add dishes to your cart and place an order. Built for the **Data Alcott Systems Free Web Development Internship** (Task ID: WD-EC-001, Food & Restaurant domain).
 
 **Live demo:** `https://Adityatiwary11.github.io/freshbite/`
+**blog:** 'https://www.freeinternships.in/blog/'
 **Repository:** `https://github.com/Adityatiwary11/freshbite`
 
 ## Features
